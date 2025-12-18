@@ -1,0 +1,320 @@
+# Translation of MMcK Launcher in Portuguese
+# Copyright (C) 2022
+# This file is distributed under the same license as the MMcK Launcher package.
+# Mateus Liberale <sergiogomes209@outlook.com>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mmcklauncher\n"
+"Report-Msgid-Bugs-To: https://github.com/EliverLara/AndromedaLauncher\n"
+"POT-Creation-Date: 2025-12-18 10:39-0600\n"
+"PO-Revision-Date: 2025-12-19 07:10-3\n"
+"Last-Translator: Mateus Liberale <sergiogomes209@outlook.com>\n"
+"Language-Team: Portuguese <>\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../metadata.json
+msgid "Andromeda Launcher"
+msgstr "Andromeda Launcher"
+
+#: ../metadata.json
+msgid "A modern Launcher for plasma!"
+msgstr "Um Launcher moderno para o plasma!"
+
+#: ../contents/code/tools.js
+msgid "Remove from Favorites"
+msgstr "Remover dos Favoritos"
+
+#: ../contents/code/tools.js
+msgid "Add to Favorites"
+msgstr "Adicionar aos Favoritos"
+
+#: ../contents/code/tools.js
+msgid "On All Activities"
+msgstr "Em Todas as Atividades"
+
+#: ../contents/code/tools.js
+msgid "On the Current Activity"
+msgstr "Na Atividade Atual"
+
+#: ../contents/code/tools.js
+msgid "Show in Favorites"
+msgstr "Exibir nos Favoritos"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr "Geral"
+
+#: ../contents/config/config.qml
+msgid "Lists and grids"
+msgstr "Listas e grades"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Icon:"
+msgstr "Ícone:"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "Escolha…"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Limpar o Ícone"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Indicator:"
+msgstr "Indicador:"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Indicator Color:"
+msgstr "Cor do indicador:"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Please choose a color"
+msgstr "Por favor, escolha uma cor"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Greeting:"
+msgstr "Saudações:"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Custom Greeting Text:"
+msgstr "Texto de saudação personalizado:"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "No custom greeting set"
+msgstr "Sem conjunto de saudação personalizado"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Glow"
+msgstr "Brilho"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Glow color:"
+msgstr "Cor do brilho"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Purple (Default)"
+msgstr "Roxo"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Blue"
+msgstr "Azul"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Red"
+msgstr "Vermelho"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Launcher Positioning:"
+msgstr "Posição do Launcher:"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Default"
+msgstr "Padrão"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Horizontal Center"
+msgstr "Centro horizontal"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Screen Center"
+msgstr "Centro da Tela"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Floating"
+msgstr "Flutuante"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Offset Screen Edge (0 is Default):"
+msgstr "Deslocamento da borda da tela (0 é o padrão):"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Offset Panel (0 is Default):"
+msgstr "Painel de deslocamento (0 é o padrão):"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Pinned applications Page:"
+msgstr "Página de aplicativos fixados"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Favorites (Default)"
+msgstr "Favoritos (Padrão)"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Recent Applications"
+msgstr "Aplicações recentes"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Default Page:"
+msgstr "Página padrão:"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "All Applications (Default)"
+msgstr "Todos os aplicativos (padrão)"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Developement"
+msgstr "Desenvolvimento"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Games"
+msgstr "Jogos"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Graphics"
+msgstr "Imagens"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Internet"
+msgstr "Internet"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Multimedia"
+msgstr "Multimidia"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Office"
+msgstr "Escritório"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Science & Math"
+msgstr "Ciências e Matemática"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "System"
+msgstr "Sistema"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Utilities"
+msgstr "Utilitários"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Lost & Found"
+msgstr "Achados e Perdidos"
+
+#: ../contents/ui/config/ConfigGeneral.qml
+msgid "Use system font settings"
+msgstr "Usar a fonte do sistema"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Lists:"
+msgstr "Listas"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Compact list items"
+msgstr "Lista de itens compacta"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "All applications view:"
+msgstr "Vizualizar todos os aplicativos"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "show items in grid"
+msgstr "mostrar todos os itens em grade"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Grid icon size:"
+msgstr "Tamanho da grade de ícones"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Small"
+msgstr "Pequeno"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Medium"
+msgstr "Médio"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Large"
+msgstr "Grande"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Huge"
+msgstr "Enorme"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Number of columns in grid"
+msgstr "Número de colunas da grade"
+
+#: ../contents/ui/config/ListAndGrid.qml
+msgid "Number of rows in grid"
+msgstr "Número de linhas na grade"
+
+#: ../contents/ui/Greeting.qml
+msgid "Hi, %1"
+msgstr "Olá, %1"
+
+#: ../contents/ui/Greeting.qml
+msgid "%1@%2"
+msgstr ""
+
+#: ../contents/ui/main.qml
+msgid "Edit Applications…"
+msgstr "Editar Aplicativos…"
+
+#: ../contents/ui/MainView.qml
+msgid "Favorite Apps"
+msgstr "Aplicativos Favoritos"
+
+#: ../contents/ui/MainView.qml
+msgid "Recent Apps"
+msgstr "Aplicativos Recentes"
+
+#: ../contents/ui/MainView.qml
+msgid "Back"
+msgstr "Voltar"
+
+#: ../contents/ui/MainView.qml
+msgid "All apps"
+msgstr "Todos os aplicativos"
+
+#: ../contents/ui/RunnerList.qml
+msgctxt "@info:status"
+msgid "No matches"
+msgstr "Nenhuma correspondência"
+
+#: ../contents/ui/SearchBar.qml
+msgid "Search..."
+msgstr "Pesquisar..."
+
+#~ msgid "Power Off"
+#~ msgstr "Desligar"
+
+#~ msgid "All"
+#~ msgstr "Todos"
+
+#~ msgid "Search:"
+#~ msgstr "Pesquisar:"
+
+#~ msgid "Expand search to bookmarks, files and emails"
+#~ msgstr "Amplie a pesquisa para incluir favoritos, arquivos e e-mails."
+
+#~ msgid "Theming:"
+#~ msgstr "Tema:"
+
+#~ msgid "Dark (Default)"
+#~ msgstr "Escuro (Padrão)"
+
+#~ msgid "Light"
+#~ msgstr "Claro"
+
+#~ msgid "Matching"
+#~ msgstr "Correspondente"
+
+#~ msgid "Search your computer"
+#~ msgstr "Pesquise no seu computador"
